@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div src="images/syeda.jpg" class="container">
+         <header>
+    <img class="profile-image" >
+            <div class="header-bio">
+                <h1>
+                    Syeda Suhaini Aznum
+                </h1>
+                <h2>
+                    Computer Science student
+                </h2>
+            </div>
+        <div class="header-contact">
+
+            <p><a href="mailto:syeda.suhainu@northsouth.edu">Email : syeda.suhainu@northsouth.edu"</a></p>
+                <p><a href="mailto:syedasuhaini@gmail.com">Personal Email : syedasuhaini@gmail.com"</a></p>
+                <p><a href="tel:+8801947754563">Personal Number : +8801947754563"</a></p>
+                <p><a href="https://github.com/syedasuhainisimran">Git hub:https://github.com/syedasuhainisimran"</a></p>
+                <p><a href=" https://www.hackerrank.com/syedasuhaini">Hacker rank:https://www.hackerrank.com/syedasuhaini"</a></p>
+
+                
+                
+               
+        </div>
+         </header>
+            <div class="div-clear"></div> 
+            <hr>
+             
+
+         <main> 
+         <section id="personal-section">
+             <div class="content">
+                 <div class="right-div">
+                  <h1> Personal Information</h1>
+                 </div>
+                 <div class="left-div">
+                      <p><a>Name:Syeda suhainu</a> </p>
+                      <p><a>Gender: Female </a></p>
+                      <p><a>Date of Birth: 23rd March 1999</a></p>
+                      <p><a>Nationality: Bangladeshi</a></p>
+                      <p><a>Religion: Islam</a></p>
+                      <p>Marital Status : Single</p>
+                      <p><a>Address: Dhaka-1216 , Mirpur-10.</a></p>
+                </div>
+             </div>
+         </section>
+         <div class="div-clear"></div> 
+         <hr class="common-hr">
+
+
+         <section id="-section">
+                <div class="content">
+                    <div class="right-div">
+                     <h1> Educational Information</h1>
+                    </div>
+                    <div class="left-div">
+                         
+                            <p><h3>SSC</h3></p>
+                            <P>Green Field School, Mirpur, Dhaka </p>
+                            <P>Year: 2014 - 2016</p>
+                            <P>Passing GPA: 5</P>
+
+                                <p><h3>HSC</h3></p>
+                                <P>Cambrian College, Mirpur, Dhaka</p>
+                                <P>Year: 2016 - 2018</p>
+                                <P>Passing GPA: 5</P>
+
+                                    <p><h3>Undergraduate program</h3></p>
+                                    <p><h4>B.SC in CSC</h4></p>
+                                    <P>NorthSouth University, Bashundhara R/C </p>
+                                    <P>Year: 2019- Continue</p>
+                         
+                   </div>
+                </div>
+            </section>
+
+            <div class="div-clear"></div> 
+            <hr class="common-hr">
+   
+            <section id="work-info">
+                    <div class="content">
+                        <div class="right-div">
+                                <h2>Work Experience</h2>
+                        </div>
+                        <div class="left-div">
+                                <p><h3>CareTutors</h3></p>
+                                <P>Had some teaching experience. For class 4 - Collage/HSC/A-levels</p>
+                                <P>Year:2018-2020</p>
+
+                                    <p><h3>AktibBD</h3></p>
+                                    <P>Working in management system</p>
+                                    <P>Year:2020-2022</p>
+                                    
+                                
+
+                       </div>
+                    </div>
+                </section>
+            
+                <div class="div-clear"></div> 
+                <hr class="common-hr">
+
+
+
+            <section id="personal-info">
+                    <div class="content">
+                        <div class="right-div">
+                                <h2>About Me</h2>
+                        </div>
+                        <div class="left-div">
+                             <p>Computer Science and Engineering student in NorthSouth University, active from 2019. Know a bit about HTML, CSS, SQL, and PHP coding. Trying to learn different coding languages. Currently learning Laravel. Love to do draw and plant trees.</p>
+
+                       </div>
+                    </div>
+                </section>
+            
+                <div class="div-clear"></div> 
+                <hr class="common-hr">
+
+
+         </main>
+
+    </div>
+</body>
+</html>
